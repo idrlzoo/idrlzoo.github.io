@@ -3,7 +3,7 @@ description: IDRL实验室着眼尖端科技- ( ゜- ゜)つロ 乾杯~ -
 show_downloads: true
 
 baseurl: "/idrlzoo" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-# url: "https://idrlzoo.github.io" # change this to the base hostname & protocol for your site
+url: "https://idrlzoo.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -12,7 +12,7 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: jekyll-theme-cayman
 
 # social
 author: IDRL Lab
