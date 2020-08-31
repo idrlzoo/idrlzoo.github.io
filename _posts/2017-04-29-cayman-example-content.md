@@ -3,8 +3,6 @@ layout: post
 title: "Example content"
 ---
 
-字体可以是**加粗**的，也可以是*斜体*的，或者加上~~删除线~~
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page: About]({{ '/about.html' | absolute_url }}).
