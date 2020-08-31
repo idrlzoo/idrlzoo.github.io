@@ -1,0 +1,30 @@
+title: IDRL实验室
+description: IDRL实验室着眼尖端科技- ( ゜- ゜)つロ 乾杯~ -
+show_downloads: true
+
+baseurl: "/idrlzoo" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+# url: "https://idrlzoo.github.io" # change this to the base hostname & protocol for your site
+
+
+google_analytics:
+
+# cayman-blog date format
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: IDRL Lab
+image: /thumbnail-jumbo.png
+# twitter:
+#   username: ""
+
+plugins:
+  - jekyll-target-blank
+  - jekyll-feed
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['about', 'contact']
